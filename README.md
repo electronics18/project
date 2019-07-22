@@ -1,7 +1,7 @@
 # 병렬 프로그래밍 스터디 - 0장
 
 - 작성 기준일: 2019. 07. 22
-- 작성자: 홍길동 (h-gyung0703@hanmail.net)
+- 작성자: 김현경 (h-gyung0703@hanmail.net)
 
 ## 마크다운 문법 정리 및 작성 규칙
 
@@ -38,4 +38,7 @@ __wow__
 ## 테이블(TABLES)
 First Header | Second Header
 ------------ | -------------
+Content cell 1 | Content cell 2  
+
+First Header | Second Header
 Content cell 1 | Content cell 2
