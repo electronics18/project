@@ -30,6 +30,6 @@
 [GitHub](http://github.com "깃허브")
 
 ### 코드블록(Code Blocks)
-'''c
+'''C
 print("hello world!");
 '''
