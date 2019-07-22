@@ -29,7 +29,8 @@
 ### 하이퍼링크(Links)
 [GitHub](http://github.com "깃허브")
 
-### 코드블록(Code Blocks)
-'''C
-print("hello world!");
-'''
+### 강조(Emphasis)
+*wow*
+_wow_
+**Wow**
+__wow__
